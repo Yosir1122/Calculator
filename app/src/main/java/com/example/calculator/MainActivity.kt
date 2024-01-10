@@ -275,6 +275,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
+        ///msfndegjniergn
         sonlar.add(misol.subSequence(index1+1, misol.length).toString().toDouble())
 
         var count = 0
